@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @artellent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... woof
-- 📫 How to reach me ...
+- 👋 hi, i'm ariel :D
+i use any pronouns!
+- 👀 i’m interested in ur mom and being as profound and esoteric as possible
+sorry im not good at code :(
+
 
 <!---
 artellent/artellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
