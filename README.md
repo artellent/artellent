@@ -1,6 +1,7 @@
 - 👋 hi, i'm ariel :D
 - ⭐︎ i use any pronouns!
-- 👀 i’m interested in ur mom and being as profound and esoteric as possible
+- 👀 i’m interested in being as profound and esoteric as possible
+- average oscar wilde and vladimir nabokov enjoyer 
 - ☹️ sorry im not good at code :(
 
 
