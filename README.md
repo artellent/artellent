@@ -1,7 +1,7 @@
 - 👋 hi, i'm ariel :D
-i use any pronouns!
+- ⭐︎ i use any pronouns!
 - 👀 i’m interested in ur mom and being as profound and esoteric as possible
-sorry im not good at code :(
+- ☹️ sorry im not good at code :(
 
 
 <!---
